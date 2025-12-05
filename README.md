@@ -1,3 +1,1 @@
-# welcome
-to the jungle
-
+![Coding](assets/stanczyk-dev.jpg)
